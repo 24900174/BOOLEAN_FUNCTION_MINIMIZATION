@@ -56,11 +56,6 @@ Developed by:prabanjan r
 RegisterNumber:24900174
 ~~~
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:*/
-
-
 **RTL realization**
 ![389980393-7cd263ce-bd48-476e-922b-cc9bf1fc5a39](https://github.com/user-attachments/assets/7d630c9b-50ab-4822-8110-28a0768ca745)
 ![389980527-fc7668d6-9af6-416f-afc3-caf632850a3e](https://github.com/user-attachments/assets/f7ac4961-5408-4a38-8a64-bc1cbb3e9ad4)
@@ -76,5 +71,4 @@ Developed by: RegisterNumber:*/
 **Result:**
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
